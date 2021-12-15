@@ -24,9 +24,9 @@ They have contracted a consulting company to understand the factors on which the
 
 ## 3 features contributing significantly
 The top 3 features contributing significantly towards explaining the demand of the shared bikes are:
-a.	Temperature  
-b.	Weather 
-c.	Months (mid-year may to sept)
+-	Temperature  
+-	Weather 
+- Months (mid-year may to sept)
 
 
 ## Contact
